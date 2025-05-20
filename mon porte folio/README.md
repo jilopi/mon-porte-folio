@@ -1,29 +1,33 @@
-# mon porte folio
+# Mon Portfolio
 
-This template should help get you started developing with Vue 3 in Vite.
+Ce projet est un portfolio personnel développé en Vue.js.
 
-## Recommended IDE Setup
+## Contenu
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- un header avec :
+-un menu de navigation avec les différents sections.
+-un bouton pour revenir tous en haut.
 
-## Customize configuration
+une page home avec :
+- Présentation
+- Projets (avec modales)
+- Formulaire de contact (factice)
+- Design responsive
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+un footer avec :
+-lien vers les reseaux sosciau 
+- date de la dernière mise a jours .
 
-## Project Setup
+une page erreur 404 .
 
-```sh
-npm install
-```
+### procedure d'installation
+git clone https://github.com/jilopi/mon-porte-folio.git (pour cloner le dossier sur ton ordi)
+cd nom-du-repo  (pour aller dans le dossier que tu veux)
+npm install (pour installer les dependance)
+npm run dev(pour lancer le routeur)
+aller sur le lien dans le terminal il doit ressembler à : http://localhost:5173
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+prérequis:
+-nodeJs
+-git
+-un terminal 
