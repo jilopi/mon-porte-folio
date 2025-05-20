@@ -95,6 +95,7 @@ textarea {
 }
 form button {
   border-radius: 10px;
+  
 }
 
 
