@@ -21,11 +21,11 @@ un footer avec :
 une page erreur 404 .
 
 ### procedure d'installation
-git clone https://github.com/jilopi/mon-porte-folio.git (pour cloner le dossier sur ton ordi)
-cd nom-du-repo  (pour aller dans le dossier que tu veux)
-npm install (pour installer les dependance)
-npm run dev(pour lancer le routeur)
-aller sur le lien dans le terminal il doit ressembler à : http://localhost:5173
+-git clone https://github.com/jilopi/mon-porte-folio.git (pour cloner le dossier sur ton ordi)
+-cd nom-du-repo  (pour aller dans le dossier que tu veux)
+-npm install (pour installer les dependance)
+-npm run dev(pour lancer le routeur)
+-aller sur le lien dans le terminal il doit ressembler à : http://localhost:5173
 
 prérequis:
 -nodeJs
